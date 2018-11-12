@@ -1,21 +1,23 @@
-Circuit: * C:\users\matt\My Documents\LTspiceXVII\My Schematics\Solar Engines\Regulator\Nocturnal_Solar_Regulator.asc
+Circuit: * C:\users\matt\My Documents\git\solar-regulator\ltspice\Nocturnal_Solar_Regulator.asc
 
 Direct Newton iteration for .op point succeeded.
+Changing Tseed to 1e-008
+Changing Tseed to 1e-010
 
-Date: Mon Nov 12 15:42:51 2018
-Total elapsed time: 22.121 seconds.
+Date: Mon Nov 12 18:07:23 2018
+Total elapsed time: 16.459 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 1210312
-traniter = 1210276
-tranpoints = 605010
-accept = 604956
-rejected = 54
-matrix size = 17
+totiter = 1211149
+traniter = 1211119
+tranpoints = 605252
+accept = 605131
+rejected = 119
+matrix size = 18
 fillins = 20
 solver = Normal
-Matrix Compiler1: 2.37 KB object code size  1.0/0.6/[0.6]
-Matrix Compiler2: off  [0.6]/0.6/0.7
+Matrix Compiler1:     133 opcodes  0.7/[0.7]/0.9
+Matrix Compiler2: off  [0.5]/0.5/0.6
 
